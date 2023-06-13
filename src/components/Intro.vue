@@ -18,7 +18,6 @@
       <a class="link -youtube" alg="마이크로 프론트엔드, 실무에 쓸만할까?" target="_blank" href="https://www.youtube.com/watch?v=DOS0YPwdnhk"></a>
     </div>
   </div>
-
 </template>
 
 <style lang="scss" scoped>
