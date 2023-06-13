@@ -8,7 +8,7 @@
     <p class="intro-paragraph">And I hope to be more <em>framework-agnostic</em> frontend developer. and I'm a researcher of <em>micro frontend architecture</em>. I'm using Vue, React, Solid, and other frameworks. and also some of my work is in vanilla JS. I have approximately 10 years of frontend experience. and I learned everything changes. and a software must always be up to date. Micro frontend architecture and multi-framework development are key areas of interest for me.</p>
     <p class="intro-paragraph">
       You can meet me if you live in <em>South Korea</em><br/>
-      and I love <em>wine and cocktails</em>
+      and I enjoy <em>I enjoy cooking and wine</em>.
     </p>
 
     <div class="intro-links">
