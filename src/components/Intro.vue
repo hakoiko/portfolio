@@ -4,9 +4,12 @@
 <template>
   <div class="intro">
     <h2 class="intro-header">Hi, I'm Suchan</h2>
-    <p class="intro-paragraph">I'm a frontend developer. currently I'm working for <a href="https://kakaowork.com">kakaowork</a>. and I also developing a web UI Components library called <em>kompass</em>.</p>
-    <p class="intro-paragraph">And I hope to be more <em>framework-agnostic</em> frontend developer. and I'm a rsearcher of <em>micro frontend architecture</em>. I'm using Vue, React, Solid, and others. and also some of my work is in vanilla JS. I have about 10 years of frontend experience. and I learned everything changes. and a software must always be up to date. MFA and multi framework would be a key.</p>
-    <p class="intro-paragraph">You can meet me if you living in <em>South Korea</em><br/> and I'm a <em>wine and cocktail</em> lover.</p>
+    <p class="intro-paragraph">I'm a frontend developer. currently I'm working for <a href="https://kakaowork.com">kakaowork</a>. and I am also developing a web UI Components library called <em>kompass</em>.</p>
+    <p class="intro-paragraph">And I hope to be more <em>framework-agnostic</em> frontend developer. and I'm a researcher of <em>micro frontend architecture</em>. I'm using Vue, React, Solid, and other frameworks. and also some of my work is in vanilla JS. I have approximately 10 years of frontend experience. and I learned everything changes. and a software must always be up to date. Micro frontend architecture and multi-framework development are key areas of interest for me.</p>
+    <p class="intro-paragraph">
+      You can meet me if you live in <em>South Korea</em><br/>
+      and I love <em>wine and cocktails</em>
+    </p>
 
     <div class="intro-links">
       <a class="link -github" alt="github" target="_blank" href="https://github.com/hakoiko"></a>
