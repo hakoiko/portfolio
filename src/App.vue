@@ -16,6 +16,7 @@ import Intro from './components/Intro.vue';
   background: linear-gradient(#fafaea, #ccc);
   min-height: 100dvh;
   padding: 80px;
+  box-sizing: border-box;
   padding-top: 150px;
   @media (width < $breakpoint-mobile) {
     padding: 40px;
