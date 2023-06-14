@@ -1,7 +1,5 @@
 <script setup lang="ts">
 import Intro from './components/Intro.vue';
-
-
 </script>
 
 <template>
@@ -10,7 +8,8 @@ import Intro from './components/Intro.vue';
   </div>
 </template>
 
-<style lang="scss" scoped>
+<style lang="scss">
+@import './variables.scss';
 .app {
   display: flex;
   place-items: start;
@@ -18,5 +17,8 @@ import Intro from './components/Intro.vue';
   min-height: 100dvh;
   padding: 80px;
   padding-top: 150px;
+  @media (width < $breakpoint-mobile) {
+    padding: 40px;
+  }
 }
 </style>

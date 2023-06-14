@@ -3,9 +3,15 @@
 
 <template>
   <div class="intro">
-    <h2 class="intro-header">Hi, I'm Suchan</h2>
-    <p class="intro-paragraph">I'm a frontend developer. currently I'm working for <a href="https://kakaowork.com">kakaowork</a>. and I am also developing a web UI Components library called <em>kompass</em>.</p>
-    <p class="intro-paragraph">And I hope to be more <em>framework-agnostic</em> frontend developer. and I'm a researcher of <em>micro frontend architecture</em>. I'm using Vue, React, Solid, and other frameworks. and also some of my work is in vanilla JS. I have approximately 10 years of frontend experience. and I learned everything changes. and a software must always be up to date. Micro frontend architecture and multi-framework development are key areas of interest for me.</p>
+    <h2 class="intro-header">
+      Hi, I'm Suchan
+    </h2>
+    <p class="intro-paragraph">
+      I'm a frontend developer. currently I'm working for <a href="https://kakaowork.com">kakaowork</a>. and I am also developing a web UI Components library called <em>kompass</em>.
+    </p>
+    <p class="intro-paragraph">
+      And I hope to be more <em>framework-agnostic</em> frontend developer. and I'm a researcher of <em>micro frontend architecture</em>. I'm using Vue, React, Solid, and other frameworks. and also some of my work is in vanilla JS. I have approximately 10 years of frontend development experience. During this time, I have learned that everything changes. All code eventually becomes legacy code. I believe that MFA and multi-framework development can be solutions to this.
+    </p>
     <p class="intro-paragraph">
       You can meet me if you live in <em>South Korea</em><br/>
       and I enjoy <em>cooking and wine</em>.
@@ -21,18 +27,26 @@
 </template>
 
 <style lang="scss" scoped>
+@import '../variables.scss';
+
 .intro {
   .intro-header {
     font-size: 48px;
     font-weight: 900;
     color: #333;
+    @media (max-width: $breakpoint-mobile) {
+      font-size: 32px;
+    }
   }
 
   .intro-paragraph {
-    max-width: 760px;
+    max-width: 768px;
     font-weight: 400;
-    font-size: 22px;
+    font-size: 24px;
     color: #555;
+    @media (max-width: $breakpoint-mobile) {
+      font-size: 16px;
+    }
     a,
     em {
       font-style: normal;
@@ -49,7 +63,7 @@
     margin-top: 40px;
     display: flex;
     gap: 16px;
-    .link {
+    > .link {
       display: block;
       width: 28px;
       height: 28px;
