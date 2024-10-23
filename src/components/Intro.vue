@@ -7,10 +7,10 @@
       Hi, I'm Suchan
     </h2>
     <p class="intro-paragraph">
-      I'm a frontend developer. currently I'm working for <a href="https://kakaowork.com">kakaowork</a>. and I am also developing a web UI Components library called <em>kompass</em>.
+      I'm a frontend developer. currently I'm developing <a href="https://agit.io/">Agit</a> at <a href="https://www.kakaocorp.com/">Kakao</a>.
     </p>
     <p class="intro-paragraph">
-      And I hope to be more <em>framework-agnostic</em> frontend developer. and I'm a researcher of <em>micro frontend architecture</em>. I'm using Vue, React, Solid, and other frameworks. and also some of my work is in vanilla JS. I have approximately 10 years of frontend development experience. During this time, I have learned that everything changes. All code eventually becomes legacy code. I believe that MFA and multi-framework development can be solutions to this.
+      And I hope to be more <em>framework-agnostic</em> frontend developer. and I'm a researcher of <em>micro frontend architecture</em>. I'm using Vue, React, Solid, and other frameworks. of course, <a href="https://astro.build/">Astro</a> is my favorite SSR Framework. I have approximately 10 years of frontend development experience. During this time, I have learned that everything changes. Time makes all my code to the <em>legacy code</em>. I believe that <em>Island Architecture</em> and <em>Destruction-Oriented Development</em> can be a solution to make Codes that never getting old.
     </p>
     <p class="intro-paragraph">
       You can meet me if you live in <em>South Korea</em><br/>
