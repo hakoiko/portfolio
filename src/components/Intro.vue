@@ -10,11 +10,11 @@
       I'm a frontend developer with 10+ years of experience. currently I'm developing <a href="https://agit.io/">Agit</a> at <a href="https://www.kakaocorp.com/">Kakao</a>.
     </p>
     <p class="intro-paragraph">
-      And I hope to be more <em>framework-agnostic</em> frontend developer. and I'm a researcher of <em>micro frontend architecture</em>. I'm using Vue, React, Solid, and other frameworks. of course, <a href="https://astro.build/">Astro</a> is my favorite SSR Framework. Throughout my career, I have learned that everything changes. Time makes all my code to the <em>legacy code</em>. I believe that <em>Island Architecture</em> and <em>Sandboxed apps</em> can be a solution to make Codes that never getting old.
+      I hope to be more framework-agnostic frontend developer. I'm using <a href="https://vuejs.org/">Vue</a>, <a href="https://react.dev/">React</a>, <a href="https://www.solidjs.com/">Solid</a>, and other frameworks. of course, <a href="https://astro.build/">Astro</a> is my favorite SSR Framework. Throughout my career, I have learned that everything changes. Time makes all my codes into the legacy codes. I believe that <a href="https://jasonformat.com/islands-architecture/">Island Architecture</a> and <em>Sandboxed apps</em> can be a solution to make codes that never getting old.
     </p>
     <p class="intro-paragraph">
-      You can meet me if you live in <em>South Korea</em><br/>
-      and I enjoy <em>cooking and wine</em>.
+      You can meet me if you live in <a href="https://maps.app.goo.gl/jssor4hGR9heuxF46">South Korea</a><br/>
+      and I enjoy <a href="https://instagram.com/clowleed">cooking and wine</a>.
     </p>
 
     <div class="intro-links">
